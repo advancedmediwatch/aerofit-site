@@ -2,7 +2,7 @@
 
 https://aerofit.advancedmediwatch.com
 
-AeroFit 產品介紹頁（暫時版），供展覽及 DM 上的 QR code 使用。
+AeroFit 產品介紹頁，供展覽及 DM 上的 QR code 使用。
 
 - 這是獨立的靜態網站，與公司其他網站、App 沒有共用程式碼或服務；修改這裡不會影響其他系統。
 - 以 GitHub Pages 發佈，網域透過 DNS 的 `aerofit` CNAME 紀錄指向這裡。
